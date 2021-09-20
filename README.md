@@ -8,6 +8,8 @@ NLTK <br />
 RE <br />
 vaderSentiment <br />
 
+### Live Link : https://sentiment-analysis-x.herokuapp.com/<br> ###
+
 ### VADER SENTIMENT <br />
 VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains. <br />
 More about [VADER](https://pypi.org/project/vaderSentiment/)
@@ -22,3 +24,10 @@ There are many sources of public sentiment e.g. public interviews, opinion polls
 The output looks like : <br />
 ![](sentiment.gif)
 
+### Novelty : <br> ###
+
+- In today’s environment where we’re suffering from data overload (although this does not mean better or deeper insights), companies might have mountains of customer feedback collected. Yet for mere humans, it’s still impossible to analyze it manually without any sort of error or bias.<br>
+
+- Sentiment analysis provides answers into what the most important issues are. Because sentiment analysis can be automated, decisions can be made based on a significant amount of data rather than plain intuition that isn’t always right.<br>
+
+- By using sentiment analysis and automating this process, we can easily drill down into different customer segments of our business and get a better understanding of sentiment in these segments.<br>
